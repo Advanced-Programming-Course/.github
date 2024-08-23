@@ -1,4 +1,5 @@
 ## Hi there 👋
+### I hope you are doing well :) This semester, we are together in the advanced programming course using the Java programming language, and we will gain new experiences together. Please note that your first four assignments will be published on [Quera](www.quera.org), and you should upload your answers there.
 
 <!--
 
